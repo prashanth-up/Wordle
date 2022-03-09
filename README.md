@@ -17,16 +17,11 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -44,7 +39,7 @@ This project uses Python3 and its in-built libs only.
 * itertools.chain
 * pathlib
 * operator
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -78,9 +73,6 @@ gh repo clone prashanth-up/Wordle
 
 *Here the solution was `MONTH` on (March 9, 2022)*
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -92,16 +84,11 @@ Contribute before everyone forgets this game. Then this will be sent to archive 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -110,5 +97,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Prashanth Umapathy - ujprashant@gmail.com
 
 Project Link: [https://github.com/prashanth-up/Wordle/](https://github.com/prashanth-up/Wordle)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
